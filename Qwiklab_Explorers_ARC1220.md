@@ -9,6 +9,8 @@
 
  - ### Create Cloud Run Function From : [Here](https://console.cloud.google.com/run/create?enableapi=false&deploymentType=function&inv=1&invt=AbxLVw&project=)
 
+ - ### Follow the next steps from the video carefully
+
 ---
 
 ## Congratulations ..!!🎉  You completed the lab shortly..😃💯
